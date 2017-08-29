@@ -69,15 +69,15 @@ but they can be overwritten if you pass an object to the `breakpoints` prop.
 
 
 ## :scroll: Changelog
-Details changes for each release are documented in the [CHANGELOG.md](https://github.com/apertureless/vue-breakpoint/blob/master/CHANGELOG.md).
+Details changes for each release are documented in the [CHANGELOG.md](https://github.com/apertureless/vue-breakpoints/blob/master/CHANGELOG.md).
 
 
 ## :exclamation: Issues
-Please make sure to read the [Issue Reporting Checklist](https://github.com/apertureless/vue-breakpoint/blob/master/CONTRIBUTING.md#issue-reporting-guidelines) before opening an issue. Issues not conforming to the guidelines may be closed immediately.
+Please make sure to read the [Issue Reporting Checklist](https://github.com/apertureless/vue-breakpoints/blob/master/CONTRIBUTING.md#issue-reporting-guidelines) before opening an issue. Issues not conforming to the guidelines may be closed immediately.
 
 
 ## :muscle: Contribution
-Please make sure to read the [Contributing Guide](https://github.com/apertureless/vue-breakpoint/blob/master/CONTRIBUTING.md) and [Code of Conduct](code-of-conduct.md) before making a pull request.
+Please make sure to read the [Contributing Guide](https://github.com/apertureless/vue-breakpoints/blob/master/CONTRIBUTING.md) and [Code of Conduct](code-of-conduct.md) before making a pull request.
 
 ## :copyright: License
 
