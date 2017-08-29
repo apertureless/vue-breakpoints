@@ -19,10 +19,10 @@
     "mobile",
     "helpers"
   ],
-  "main": "dist/vue-breakpoint.js",
-  "unpkg": "dist/vue-breakpoint.js",
-  "module": "dist/vue-breakpoint.js",
-  "jsnext:main": "dist/vue-breakpoint.js",
+  "main": "dist/vue-breakpoints.js",
+  "unpkg": "dist/vue-breakpoints.js",
+  "module": "dist/vue-breakpoints.js",
+  "jsnext:main": "dist/vue-breakpoints.js",
   "files": [
     "dist"
   ],
