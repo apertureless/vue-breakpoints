@@ -1,6 +1,6 @@
 # vue-breakpoints
 [![Build Status](https://travis-ci.org/apertureless/vue-breakpoints.svg?branch=develop)](https://travis-ci.org/apertureless/vue-breakpoints)
-[![codecov](https://codecov.io/gh/apertureless/vue-breakpoints/branch/master/graph/badge.svg)]
+[![codecov](https://codecov.io/gh/apertureless/vue-breakpoints/branch/master/graph/badge.svg)
 [![npm](https://img.shields.io/npm/v/vue-breakpoints.svg)](https://www.npmjs.com/package/vue-breakpoints)
 [![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/apertureless/vue-breakpoints/blob/master/LICENSE)
