@@ -1,6 +1,6 @@
 {
   "name": "vue-breakpoints",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Vue.js utility component to show and hide components based on breakpoints",
   "author": "Jakub Juszczak <jakub@posteo.de>",
   "license": "MIT",
