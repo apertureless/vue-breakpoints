@@ -1,17 +1,23 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    <hello></hello>
+    <hide-at breakpoint="medium">Hide me at `medium`</hide-at>
+    <show-at breakpoint="mediumAndAbove">Show me at `mediumAndAbove`</show-at>
+    <with-breakpoint :breakpoints="{large: 200}" ></with-breakpoint>
   </div>
 </template>
 
 <script>
-import Hello from './components/Hello'
+import hideAt from './components/hideAt'
+import showAt from './components/showAt'
+import withBreakpoint from './components/withBreakpoint'
 
 export default {
   name: 'app',
   components: {
-    Hello
+    hideAt,
+    showAt,
+    withBreakpoint
   }
 }
 </script>
