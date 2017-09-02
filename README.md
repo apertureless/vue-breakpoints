@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="static/logo.png" />
+</p>
 # vue-breakpoints
 [![Build Status](https://travis-ci.org/apertureless/vue-breakpoints.svg?branch=develop)](https://travis-ci.org/apertureless/vue-breakpoints)
 [![codecov](https://codecov.io/gh/apertureless/vue-breakpoints/branch/master/graph/badge.svg)](https://codecov.io/gh/apertureless/vue-breakpoints)
