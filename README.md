@@ -7,6 +7,8 @@
 
 Vue.js utility component to show and hide components based on breakpoints
 
+📺 [Demo](https://apertureless.github.io/vue-breakpoints/)
+
 ## 🔧  Install
 `yarn add vue-breakpoints`
 
