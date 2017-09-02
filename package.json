@@ -30,6 +30,7 @@
     "purge": "rm -rf dist/",
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
+    "docs": "node build/build.js",
     "build": "npm run build:umd",
     "build:umd": "webpack --progress --hide-modules --config ./build/webpack.release.js && webpack --progress --hide-modules --config ./build/webpack.release.min.js",
     "unit": "cross-env BABEL_ENV=test karma start test/unit/karma.conf.js --single-run",
