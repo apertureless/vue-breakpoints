@@ -5,7 +5,7 @@
 
   export default {
     name: 'hide-at',
-    extends: {...withBreakpoint},
+    mixins: [withBreakpoint],
     props: {
       breakpoint: {
         type: String,
