@@ -1,3 +1,5 @@
+<template>
+</template>
 <script>
   import merge from 'lodash.merge'
 
