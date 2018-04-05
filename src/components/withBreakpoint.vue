@@ -25,6 +25,11 @@
     mounted () {
       window.addEventListener('resize', this.handleResize)
       this.handleResize()
+      if (this.$slots.default && this.$slots.default.length > 1) {
+        console.warn('[✋ vue-breakpoints] You may only wrap one element in a <showAt> or <hideAt/> component.')
+      } else if (!this.$slots.default || this.$slots.default.length < 1) {
+        console.warn('[✋ vue-breakpoints] You must have one child inside a <showAt> or <hideAt/> component.')
+      }
     },
 
     beforeDestroy () {
