@@ -44,7 +44,7 @@
       }
 
       if (shouldRender) {
-        return (<div>{ this.$slots.default }</div>)
+        return this.$slots.default[0]
       }
       return null
     }
