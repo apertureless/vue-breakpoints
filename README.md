@@ -9,6 +9,8 @@
 [![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/apertureless/vue-breakpoints/blob/master/LICENSE)
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C1WP7C)
+
 Vue.js utility component to show and hide components based on breakpoints
 
 📺 [Demo](https://apertureless.github.io/vue-breakpoints/)
